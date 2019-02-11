@@ -6,5 +6,5 @@
 
 ### 使用方法:
 ```shell
-go mod edit -replace=v2ray.com@v4.14=github.com/shynome/v2ray-go-grpc-sdk@4.14
+go mod edit -replace=v2ray.com/core@v4.14=github.com/shynome/v2ray-go-grpc-sdk@4.14
 ```
